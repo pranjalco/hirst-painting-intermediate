@@ -1,4 +1,3 @@
-```markdown
 # Project 13: Hirst Painting
 
 ## Author
