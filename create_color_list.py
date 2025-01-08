@@ -4,15 +4,16 @@ colors = colorgram.extract("image.jpg", 30)
 
 
 def get_rgb_value_list(list_name):
+    """This function returns list of rgb values"""
     rgb_class_list = []
-    for c in list_name:
-        rgb_class_list.append(c.rgb)
+    for color in list_name:
+        rgb_class_list.append(color.rgb)
 
     colors_list = []
-    for c in rgb_class_list:
-        r = c[0]
-        g = c[1]
-        b = c[2]
+    for rgb_color in rgb_class_list:
+        r = rgb_color[0]
+        g = rgb_color[1]
+        b = rgb_color[2]
         tup = r, b, g
         colors_list.append(tup)
 
