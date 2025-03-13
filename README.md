@@ -30,7 +30,8 @@ Python | Turtle | Colorgram | Random | GUI-based Programming | Automation | Imag
     ```bash  
    python app.py
 
-## Final Output Path:  `./screenshots/hirst_painting_final_output.PNG`
+## Final Output Path:  
+`./screenshots/hirst_painting_final_output.PNG`
 
 
 **Created by Pranjal Sarnaik**  
